@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/☕-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </p>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Snz&label=✨%20访客数&color=ff69b4&style=flat-square" alt="访客计数器" />
-    <img src="https://img.shields.io/github/followers/Snz?label=关注者&style=social" alt="GitHub followers" />
-  </p>
 
 </div>
 
