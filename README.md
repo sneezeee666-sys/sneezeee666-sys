@@ -29,7 +29,7 @@
 <!-- 👆👆👆 贪吃蛇代码添加结束 👆👆👆 -->
 
 <p align="center">
-  <img src="image.png" alt="头像" width="200" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,105,180,0.3);" />
+  <img src="image.png" alt="头像" width="400" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,105,180,0.3);" />
 </p>
 
 <p align="center">
