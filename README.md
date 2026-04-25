@@ -12,6 +12,21 @@
 
 </div>
 
+<!-- 👇👇👇 在这里添加贪吃蛇代码 👇👇👇 -->
+
+### 🐍 我的贡献被贪吃蛇吃掉啦
+
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  
+</div>
+
+<!-- 👆👆👆 贪吃蛇代码添加结束 👆👆👆 -->
 
 <p align="center">
   <img src="image.png" alt="头像" width="200" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,105,180,0.3);" />
@@ -27,7 +42,7 @@
 
 ```yaml
 名字: Snz.
-状态: 🚀 码力全开
+状态: 正在摆烂。。。。。。
 爱好: 🎨 二次元 | ☕ 写Java | 🎵 音乐
 格言: Write once, run anywhere ☕
 主语言: Java | Spring Boot
