@@ -15,3 +15,23 @@
   </p>
 
 </div>
+
+
+<p align="center">
+  <img src="image.png" alt="头像" width="200" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,105,180,0.3);" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+---
+
+### 🌟 关于我
+
+```yaml
+名字: Snz.
+状态: 🚀 码力全开
+爱好: 🎨 二次元 | ☕ 写Java | 🎵 音乐
+格言: Write once, run anywhere ☕
+主语言: Java | Spring Boot
